@@ -1,4 +1,4 @@
-# A Basic Circuit Project of Password Management System (Digital Logic Design)
+# A Circuit Project of An Automated Lock System (Digital Logic Design)
 
 This repository contains a digital logic design project focused on implementing a basic circuit for a password management system. The project utilizes fundamental logic gates and concepts to demonstrate password authentication and visual feedback.
 
